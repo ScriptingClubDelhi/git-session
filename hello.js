@@ -7,5 +7,5 @@ function college(){
     console.log("Dyal singh");
 }
 function university(){
-    console.log("DU");
+    console.log("Delhi university");
 }
